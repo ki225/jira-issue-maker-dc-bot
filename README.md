@@ -1,5 +1,4 @@
 # Discord Jira Issue Creator Bot
-
 這個專案是基於 Discord Bot 和 Jira API 建立的，用來讓 Discord 用戶直接在指定的 Discord 頻道中建立 Jira 任務（Issue）。Bot 支援指定受託人、設置任務標題、描述，並發送通知到相對應的頻道。
 
 ## 功能
