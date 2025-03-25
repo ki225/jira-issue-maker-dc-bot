@@ -1,5 +1,6 @@
 .env
 /venv/
-./test/
+/test/
 /.venv/
-test/
+credentials.json
+__pycache__/
